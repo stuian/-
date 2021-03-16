@@ -1,5 +1,6 @@
 # depslib dependency file v1.0
-1615814398 source:e:\study-before-work\c_and_c++\c_exercise\main.c
+1615877443 source:e:\study-before-work\c_and_c++\c_exercise\main.c
 	<stdio.h>
 	<stdlib.h>
+	<stdio.h>
 
